@@ -12,6 +12,8 @@
 
 🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions. It's about getting the AI to do the "right thing" in new situations.
 
+▶️ Algorithm - A set of step-by-step instruction for solving a problem or completing a task.
+
 ▶️ Chain Of Thought - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
 
 👽 *Coding Agents* - This is a specialized kind of AI Agents created specifically for software development and engineering. A coding agent can write, test and debug code iteratively and autonomously.  
