@@ -36,6 +36,7 @@ Claude is more than just a chatbot, it's an AI assistant designed to be a thinki
 - writing                     
 - research & analysis            
 - coding assistance                  
+
                             
 `Mis-en-scene`                  
 
