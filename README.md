@@ -18,7 +18,7 @@
 
 ▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.
 
-▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.  
+▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.    
 
 ▶️ Chain Of Thought - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
 
