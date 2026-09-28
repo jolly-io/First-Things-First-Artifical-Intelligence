@@ -1,6 +1,6 @@
 ### Notes on Artificial Intelligence, LLMs, Machine Learning & Data Science & Engineering 
  
-### Glossary on Artificial Intelligence
+### First things first: know your terminilogies.
 
 🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that  out-perform humans at most economically viable work  
 
