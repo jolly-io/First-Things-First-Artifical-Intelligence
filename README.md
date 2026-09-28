@@ -16,7 +16,7 @@
 
 ▶️ AI Safety - A area of study focused on ensuring artificial intelligence acts reliably without causing harm even when they are powerful, widely deployed and operating in unexpected environments.
 
-▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.
+▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.  
 
 ▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.    
 
