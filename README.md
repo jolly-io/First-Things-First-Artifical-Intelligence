@@ -20,7 +20,7 @@
 
 ▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.    
 
-▶️  Backpropagation -  This is how neural networks learn
+▶️  Backpropagation -  This is how neural networks learn from mistakes by working backward through the
 
 ▶️ Chain Of Thought - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
 
