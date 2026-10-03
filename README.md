@@ -20,7 +20,7 @@
 
 ▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.    
 
-▶️  Backpropagation -  This is how neural networks learn from mistakes by working backward through the
+▶️  Backpropagation -  This is how neural networks learn from mistakes by working backward through the networks to figure out which part is responsible for the error.
 
 ▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or discriminate against a group of people.
 
