@@ -35,7 +35,7 @@
 🔮 *Deep Learning* - Subset of machine learning that is self-improving where algorithms are created with a multi-layered, artificial neural network structure. Through errors, repetition and adjustment, deep learning algorithms and models are able to improve their output performance.
 
 👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behavior.      
-  
+    
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)          
 
 👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
