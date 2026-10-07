@@ -18,7 +18,7 @@
 
 ▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.  
 
-▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.    
+▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.      
 
 ▶️  Backpropagation -  This is how neural networks learn from mistakes by working backward through the networks to figure out which part is responsible for the error. 
 
