@@ -22,7 +22,7 @@
 
 ▶️  Backpropagation -  This is how neural networks learn from mistakes by working backward through the networks to figure out which part is responsible for the error. 
 
-▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or discriminates against a group of people. This usually happens because the training data reflects historical prejudices or does not represent all group equally.
+▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or discriminates against a group of people. This usually happens because the training data reflects historical prejudices or does not represent all group equally. For instance, a hiring AI trained on past decisions might favor men if the company historically hired more men than women.
 
 ▶️ Chain Of Thought - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
 
