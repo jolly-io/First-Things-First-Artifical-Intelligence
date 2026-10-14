@@ -24,7 +24,7 @@
 
 ‼️ Bayesian Networks - Bayesian Networks are graphical models that represent cause-and-effect relationships between variables using probabilities, like a map showing how different  factors influence each other.
 
-▶️
+▶️  
 
 ▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or discriminates against a group of people. This usually happens because the training data reflects historical prejudices or does not represent all group equally. For instance, a hiring AI trained on past decisions might favor men if the company historically hired more men than women.
 
