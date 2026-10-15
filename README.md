@@ -26,8 +26,6 @@
 
 ‼️ Bayesian Networks - Bayesian Networks are graphical models that represent cause-and-effect relationships between variables using probabilities, like a map showing how different  factors influence each other.
 
-▶️  
-
 ▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or discriminates against a group of people. This usually happens because the training data reflects historical prejudices or does not represent all group equally. For instance, a hiring AI trained on past decisions might favor men if the company historically hired more men than women.
 
 ▶️ Chain Of Thought - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
@@ -45,6 +43,8 @@
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)          
 
 👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
+
+◀️ Closed Source - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
 
 ### Claude Fundamentals                   
   
