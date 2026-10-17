@@ -44,7 +44,9 @@
 
 👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
 
-◀️ Closed Source - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
+◀️ *Closed Source* - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
+
+◀️ *Computer Vision* - A field of AI that enables computer to see and identify visual information from images and videos, It uses machine learning to conduct tasks like object detection, face recognition, reading and tracking movement. 
 
 ### Claude Fundamentals                   
   
