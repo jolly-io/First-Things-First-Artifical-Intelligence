@@ -32,7 +32,9 @@
 
 👽 *Coding Agents* - This is a specialized kind of AI Agents created specifically for software development and engineering. A coding agent can write, test and debug code iteratively and autonomously.   
   
-🔮 *Compute* - This is the vital computational power that models require to operate and function. It also used to describe the hardware that provisions the computational power such as TPUs, CPUs, and other related infrastructures.               
+🔮 *Compute* - This is the vital computational power that models require to operate and function. It also used to describe the hardware that provisions the computational power such as TPUs, CPUs, and other related infrastructures.  
+
+👽 *Context Window* - This is the amount of input
 
 👽 *Diffusion* -   Diffusion based neural networks are trained through deep learning to progressively diffuse samples with random noise, and then reverse the process to generate quality images. Models used primarily for image generation and other computer vision tasks.
 
