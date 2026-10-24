@@ -18,7 +18,7 @@
 
 ▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.  
 
-‼️ Adversarial Distillation Attack - 
+‼️ Adversarial Distillation Attack - This is when an attacher interferes with the process of training a smaller AI from a larger more powerful one corrupting the lessons the smaller model absorbs.
 
 ▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.               
 
