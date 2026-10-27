@@ -12,7 +12,7 @@
 
 🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions. It's about getting the AI to do the "right thing" in new situations.
 
-▶️ Algorithms - A set of step-by-step instruction for solving a problem or completing a task similar to a recipe. Some algorithms are simple and fixed, others learn from the data as in machine learning. 
+▶️ Algorithms - A set of step-by-step instruction for solving a problem or completing a task similar to a recipe. Some algorithms are simple and fixed, others learn from the data as in machine learning.  
 
 ▶️ AI Safety - A area of study focused on ensuring artificial intelligence acts reliably without causing harm even when they are powerful, widely deployed and operating in unexpected environments.
 
