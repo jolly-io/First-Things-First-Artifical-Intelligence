@@ -16,7 +16,9 @@
 
 ▶️ AI Safety - A area of study focused on ensuring artificial intelligence acts reliably without causing harm even when they are powerful, widely deployed and operating in unexpected environments.
 
-▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment.  
+▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment. 
+
+▶️ Algorithmic Monoculture - Is the widespread use by many different organizations of similar or very identical AI algorithms or programs.
 
 ‼️ Adversarial Distillation Attack - This is when an attacher interferes with the process of training a smaller AI from a larger more powerful one corrupting the lessons the smaller model absorbs.
 
