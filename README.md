@@ -1,6 +1,6 @@
 ### Notes on Artificial Intelligence, LLMs, Machine Learning & Data Science & Engineering 
  
-### First things first: know your terminilogies. 
+### First things first: know your terminilogies. nEXT
 
 🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that  out-perform humans at most economically viable work   
 
