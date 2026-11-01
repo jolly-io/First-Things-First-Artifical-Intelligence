@@ -16,7 +16,7 @@
 
 ▶️ AI Safety - A area of study focused on ensuring artificial intelligence acts reliably without causing harm even when they are powerful, widely deployed and operating in unexpected environments. 
 
-▶️ AI Tech Stack - An integrated set of software, hardware and computing capabilities that supported the full AI lifecycle from model design, training and evaluation, deployment, monitoring and maintenance. 
+▶️ AI Tech Stack - An integrated set of software, hardware and computing capabilities that supported the full AI lifecycle from model design, training and evaluation, deployment, monitoring and maintenance.  
 
 ▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment. 
 
