@@ -4,7 +4,7 @@
 
 🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that  out-perform humans at most economically viable work   
 
-🥈 AI Agents - An autonomous AI system that can engage one or more artificial intelligence systems to execute a task or set of tasks successfully. Is autonomy the key differentiator?  
+🥈 AI Agents - An autonomous AI system that can engage one or more artificial intelligence systems to execute a task or set of tasks successfully. Is autonomy the key differentiator?  What does autonomy look like in practice?
 
 ▶️ Retrieval Augmented Generation (RAG) - A technique that helps language models generate higher quality outputs by allowing them to access to external up-to-date information first. The external knowledge source could be a company's internal documents or the live internet.
 
