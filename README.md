@@ -29,7 +29,7 @@
 ‼️ Attention Mechanism - This is a method in neural networks that helps a model focus on the most relevant parts of the inputs, when producing an output.  For instance, when translating language, it pays attention to the words that matter most for the next translated word. This improves the accuracy and effectiveness of handling long sequences. 
 
 ▶️ Backpropagation - This is how neural networks learn from mistakes by working backward through the networks to figure  out which part is responsible for the error.      
-
+ 
 ‼️ Bayesian Networks - Bayesian Networks are graphical models that represent cause-and-effect relationships between variables using probabilities, like a map showing how different  factors influence each other. 
 
 ▶️ Bias in Artificial Intelligence - This occurs when a system produces outcomes that favors or  discriminates against a group of people. This usually happens because the training data reflects historical prejudices or does not represent all group equally. For instance, a hiring AI trained on past decisions might favor men if the company historically hired more men than women.
