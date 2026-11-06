@@ -10,7 +10,7 @@
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
 
-🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions. It's about getting the AI to do the "right thing" in new situations.
+🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions.  It's about getting the AI to do the "right thing" in new situations.
 
 ▶️ Algorithms -  A set of step-by-step instruction for solving a problem or completing a task similar to a recipe. Some algorithms are simple and fixed, others learn from the data as in machine learning.  
 
