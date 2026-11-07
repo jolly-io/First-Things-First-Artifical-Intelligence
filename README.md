@@ -26,7 +26,7 @@
 
 ▶️ AI Fluency - Refers to the capacity to collaborate productively and responsibly with AI systems through understanding their capabilities, limitations and implications.     
 
-▶️ Art
+▶️ Artificial Hivemind - Refers to a network systems or agents that share information, coordinate their actions and operate collectively often appearing to function as a single intelligence.
 
 ‼️ Attention Mechanism - This is a method in neural networks that helps a model focus on the most relevant parts of the inputs, when producing an output.  For instance, when translating language, it pays attention to the words that matter most for the next translated word. This improves the accuracy and effectiveness of handling long sequences. 
 
