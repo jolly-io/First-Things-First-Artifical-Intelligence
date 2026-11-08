@@ -42,6 +42,8 @@
   
 🔮 *Compute* - This is the vital computational power that models require to operate and function. It also used to describe the hardware that provisions the computational power such as TPUs, CPUs, and other related infrastructures.  
 
+🅰️ Constrastive Learning - is a machine learning technique where models learn by comparing similar and dissimilar examples to understand what makes things alike or different.
+
 👽 *Context Window* - This is the amount of input such as text, audio etc that an AI system can process at once during a task. A model Think of it as a model's short term memory. Once a conversation exceeds a model's context window, it begins to forget prior conversations/responses.
 
 👽 *Diffusion* -   Diffusion based neural networks are trained through deep learning to progressively diffuse samples with random noise, and then reverse the process to generate quality images. Models used primarily for image generation and other computer vision tasks.
