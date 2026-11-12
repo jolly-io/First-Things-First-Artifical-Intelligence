@@ -60,6 +60,8 @@
 
 ◀️ *Computer Vision* - A field of AI that enables computer to see and identify visual information from images and videos, It uses machine learning to conduct tasks like object detection, face recognition, reading and tracking movement. 
 
+◀️ Data Aug
+
 ### Claude Fundamentals                   
   
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
