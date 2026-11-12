@@ -60,7 +60,7 @@
 
 ◀️ *Computer Vision* - A field of AI that enables computer to see and identify visual information from images and videos, It uses machine learning to conduct tasks like object detection, face recognition, reading and tracking movement. 
 
-◀️ Data Aug
+◀️ Data Augmentation
 
 ### Claude Fundamentals                   
   
