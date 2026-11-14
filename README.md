@@ -62,7 +62,9 @@
 
 ◀️ Data Augmentation - A technique to artificially expand training dataset by creating modified versions of existing dataset without creating anything new.
 
-◀️ Data Mining - This is the process of discovering patterns and trends in large datasets .
+◀️ Data Mining - This is the process of discovering patterns and trends in large datasets.
+
+◀️ Data Poisoning -  
 ### Claude Fundamentals                   
   
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
