@@ -18,7 +18,7 @@
 
 ▶️ AI Tech Stack - An integrated set of software, hardware and computing capabilities that supported the full AI lifecycle from model design, training and evaluation, deployment, monitoring and maintenance.  
 
-▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment. 
+▶️ AI workflow - This describes the end-to-end process of building, deploying and maintaining  an AI system. It consist of processes such as data collection and preparation, model training, testing and deployment. 
 
 ▶️ Algorithmic Monoculture - Is the widespread use by many different organizations of similar or very identical AI algorithms or programs.     
 
