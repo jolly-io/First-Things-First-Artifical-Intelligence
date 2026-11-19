@@ -66,7 +66,7 @@
 
 ◀️ Data Poisoning - This is an attack where an adversary intentionally inserts, alters or mislabels data in a machine-learning model's training dataset to manipulate its behavior or performance. This deliberate interference is distinct from accidental errors or unintentional bias.
 
-◀️ Decision Tree - A machine learning algorithm that makes predictions by asking yes/no questions, splitting data at each step based on different features until it reaches a final conclusion.    
+◀️ Decision Tree - A machine learning algorithm that makes predictions by asking yes/no questions, splitting data at each step based on different features until it reaches a final conclusion. This can be used in medical diagnosis by way of a medical decision tree to diagnose a patient's illness.
 
 
 ### Claude Fundamentals                   
