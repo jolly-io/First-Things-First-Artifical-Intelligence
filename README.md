@@ -68,6 +68,8 @@
 
 ◀️ Decision Tree - A machine learning algorithm that makes predictions by asking yes/no questions, splitting data at each step based on different features until it reaches a final conclusion. This can be used in medical diagnosis by way of a medical decision tree to diagnose a patient's illness.
 
+🔽 Dimensionality Reduction - Is a technique for simplyfing complex data by reducing the number of variables while preserving the most important information. 
+
 
 ### Claude Fundamentals                   
   
