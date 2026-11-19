@@ -52,8 +52,6 @@
 
 👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behavior.           
        
-🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)          
-
 👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
 
 ◀️ *Closed Source* - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
@@ -69,6 +67,8 @@
 ◀️ Decision Tree - A machine learning algorithm that makes predictions by asking yes/no questions, splitting data at each step based on different features until it reaches a final conclusion. This can be used in medical diagnosis by way of a medical decision tree to diagnose a patient's illness.
 
 🔽 Dimensionality Reduction - Is a technique for simplyfing complex data by reducing the number of variables while preserving the most important information. 
+
+🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)    
 
 
 ### Claude Fundamentals                   
