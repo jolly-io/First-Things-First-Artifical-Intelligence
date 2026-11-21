@@ -70,8 +70,8 @@
 
 🔽 Embeddings - are numerical representations that convert complex data such as words, images into vectors of numbers that capture their meaning or characteristics. The central idea is that similar items ends up close together in this mathematical space. For example words like 'dog' and 'puppy' would have similar embeddings.  
 
-🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)      
-
+🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)       
+ 
 🔽 
 
 
