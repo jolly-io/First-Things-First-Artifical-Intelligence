@@ -68,7 +68,11 @@
 
 🔽 Dimensionality Reduction - Is a technique for simplyfing complex data by reducing the number of variables while preserving the most important information. 
 
+🔽 Embeddings - 
+
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)    
+
+🔽 
 
 
 ### Claude Fundamentals                   
