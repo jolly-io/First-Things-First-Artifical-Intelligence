@@ -60,7 +60,7 @@
 
 ◀️ Data Augmentation - A technique to artificially expand training dataset by creating modified versions of existing dataset without creating anything new.
 
-◀️ Data Mining - This is the process of discovering patterns and trends in large datasets.
+◀️ Data Mining - This is the process of discovering patterns and trends in large datasets. 
 
 ◀️ Data Poisoning - This is an attack where an adversary intentionally inserts, alters or mislabels data in a machine-learning model's training dataset to manipulate its behavior or performance. This deliberate interference is distinct from accidental errors or unintentional bias.
 
