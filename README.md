@@ -70,7 +70,7 @@
 
 🔽 Embeddings - are numerical representations that convert complex data such as words, images into vectors of numbers that capture their meaning or characteristics. The central idea is that similar items ends up close together in this mathematical space. For example words like 'dog' and 'puppy' would have similar embeddings.  
 
-🔽 Ensemble Methods - are machine learning techniques
+🔽 Ensemble Methods - are machine learning techniques that combine multiple models(often known as 'weak learners') to produce a single, more accurate and robust prediction than an individual model could achieve alone. By aggregating diverse models, you can reduce errors, minimize overfitting, and improve overall performance.
 
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)       
  
