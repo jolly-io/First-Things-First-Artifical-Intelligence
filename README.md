@@ -72,7 +72,7 @@
 
 🔽 Ensemble Methods - are machine learning techniques that combine multiple models(often known as 'weak learners') to produce a single, more accurate and robust prediction than an individual model could achieve alone. By aggregating diverse models, you can reduce errors, minimize overfitting, and improve overall performance.
 
-🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)       
+🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)        
  
 🔽 
 
