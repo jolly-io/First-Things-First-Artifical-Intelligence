@@ -10,6 +10,8 @@
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
 
+👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
+
 🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions.  It's about getting the AI to do the "right thing" in new situations.
 
 ▶️ Algorithms -  A set of step-by-step instruction for solving a problem or completing a task similar to a recipe. Some algorithms are simple and fixed, others learn from the data as in machine learning.  
@@ -52,7 +54,7 @@
 
 👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behavior.           
        
-👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
+
 
 ◀️ *Closed Source* - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
 
