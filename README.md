@@ -72,9 +72,12 @@
 
 🔽 Ensemble Methods - are machine learning techniques that combine multiple models(often known as 'weak learners') to produce a single, more accurate and robust prediction than an individual model could achieve alone. By aggregating diverse models, you can reduce errors, minimize overfitting, and improve overall performance.
 
-🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)        
+
  
 🔽 Expert Systems - are AI programs designed to mimic the decision-making abilities of human experts in specific domains by using a knowledge base of facts and a set of logical rules to draw conclusions, mainly using *if-then* rules.
+
+
+🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)        
 
 ### Claude Fundamentals                   
   
