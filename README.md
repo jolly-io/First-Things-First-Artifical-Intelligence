@@ -52,10 +52,8 @@
 
 🔮 *Deep Learning* - Subset of machine learning that is self-improving where algorithms are created with a multi-layered, artificial neural network structure. Through errors, repetition and adjustment, deep learning algorithms and models are able to improve their output performance.
 
-👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behavior.           
+👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behaviors.           
        
-
-
 ◀️ *Closed Source* - Refers to software whose underlying code is restricted and not available for the public to view, modify or use. Only the company developers with access maintain control of the code.
 
 ◀️ *Computer Vision* - A field of AI that enables computer to see and identify visual information from images and videos, It uses machine learning to conduct tasks like object detection, face recognition, reading and tracking movement. 
