@@ -74,7 +74,7 @@
 
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)        
  
-🔽 
+🔽 Expert Systems - are AI programs designed to mimic the decision-making abilities of human experts in specific domains by using a knowledge base of facts and a set of logical rules to draw conclusions, mainly using *if-then* rules.
 
 ### Claude Fundamentals                   
   
